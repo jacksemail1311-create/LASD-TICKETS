@@ -1,0 +1,13 @@
+{
+  "name": "lasd-ticket-bot",
+  "version": "1.0.0",
+  "description": "Modal-based ticket system for Discord (discord.js v14)",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
